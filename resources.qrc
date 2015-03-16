@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Bitmap/AGPLv3.png</file>
+        <file>Resources/Bitmap/GPLv3.png</file>
+        <file>Resources/Bitmap/LGPLv3.png</file>
+        <file>Documents/Apache/Apache_HEADER.txt</file>
+        <file>Documents/Apache/Apache_TEXT.txt</file>
+        <file>Documents/BSD 2-Clause/BSD2Clause_HEADER.txt</file>
+        <file>Documents/BSD 3-Clause/BSD3Clause_HEADER.txt</file>
+        <file>Documents/BSD 4-Clause/BSD4Clause_HEADER.txt</file>
+        <file>Documents/Eclipse Public License/EPL_HEADER.txt</file>
+        <file>Documents/Eclipse Public License/EPL_HTML.html</file>
+        <file>Documents/Eclipse Public License/EPL_TEXT.txt</file>
+        <file>Documents/GNU Affero GPL/AGPL_HEADER.txt</file>
+        <file>Documents/GNU Affero GPL/AGPL_HTML.html</file>
+        <file>Documents/GNU Affero GPL/AGPL_TEXT.txt</file>
+        <file>Documents/GNU Free Document License/GFDL_HEADER.txt</file>
+        <file>Documents/GNU Free Document License/GFDL_HTML.html</file>
+        <file>Documents/GNU Free Document License/GFDL_TEXT.txt</file>
+        <file>Documents/GNU Lesser Public License/LGPL_HEADER.txt</file>
+        <file>Documents/GNU Lesser Public License/LGPL_HTML.html</file>
+        <file>Documents/GNU Lesser Public License/LGPL_TEXT.txt</file>
+        <file>Documents/GNU Public License/GPL_Header.txt</file>
+        <file>Documents/GNU Public License/GPL_HTML.html</file>
+        <file>Documents/GNU Public License/GPL_TEXT.txt</file>
+        <file>Documents/MIT License/MIT_HEADER.txt</file>
+        <file>Documents/Mozilla Public License/MPL_HEADER.txt</file>
+        <file>Documents/Mozilla Public License/MPL_HTML.html</file>
+        <file>Documents/Mozilla Public License/MPL_TEXT.txt</file>
+        <file>Documents/Public Domain/PD_HEADER.txt</file>
+        <file>Resources/Bitmap/PD.png</file>
+        <file>Resources/Bitmap/MPL.png</file>
+        <file>Resources/Bitmap/GFDL_Logo.svg</file>
+        <file>Resources/Bitmap/Apache.png</file>
+    </qresource>
+</RCC>
